@@ -1,9 +1,3 @@
-//
-//  MapViewController.swift
-//  Lesson 24
-//
-//  Created by Aliaksandr Yashchuk on 10/12/23.
-//
 
 import UIKit
 import MapKit
